@@ -214,7 +214,10 @@ int main(){
 
     cout << "\nhello\n";
 
+    cout << "Row swapped\n";
     for (auto&& x : row_swapped){for (auto&& y: x) cout << y << " "; cout << "\n";}
+    cout << "\n";
+    cout << "Column swapped\n";
     for (auto&& x : col_swapped){for (auto&& y: x) cout << y << " "; cout << "\n";}
 
     //update one index
