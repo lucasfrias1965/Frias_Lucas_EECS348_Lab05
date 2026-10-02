@@ -1,0 +1,40 @@
+Matrix A:
+1 2 3 4 
+5 6 7 8 
+9 10 11 12 
+13 14 15 16 
+Matrix B:
+13 14 15 16 
+9 10 11 12 
+5 6 7 8 
+1 2 3 4 
+A + B:
+14 16 18 20 
+14 16 18 20 
+14 16 18 20 
+14 16 18 20 
+A * B:
+50 60 70 80 
+162 188 214 240 
+274 316 358 400 
+386 444 502 560 
+Diagonal sums for Matrix A
+Main diagonal sum: 34
+Secondary diagonal sum: 34
+Swap Matrix A's rows. Specify an index
+Index 1: Index 2:Swap Matrix A's columns. Specify an index
+Index 1: Index 2:
+hello
+5 6 7 8 
+1 2 3 4 
+9 10 11 12 
+13 14 15 16 
+2 1 3 4 
+6 5 7 8 
+10 9 11 12 
+14 13 15 16 
+Update an element in Matrix A. Specify an index
+ Row:  Column: Input: 1 2 3 4 
+13 6 7 8 
+9 10 11 12 
+13 14 15 16 
